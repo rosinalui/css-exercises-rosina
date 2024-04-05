@@ -1,5 +1,5 @@
 p {
-    background-color: #ffb6c1;
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .size {
@@ -9,7 +9,7 @@ p {
     color: #0000ff;
     font-size:36px;
 }
-.four {
+#four {
     font-weight: bold;
-    background-color: #7fff00; 
+    background-color:hsl(90, 100%, 50%);
 }
